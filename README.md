@@ -2,6 +2,5 @@
 Create along with GIt &amp; GitHub for developer of borntoDev open access course.
 
 add new line
-![Endpoint Badge](https://img.shields.io/endpoint?url=dsfsfsdfsdfsdf)
 
 🥇💼
